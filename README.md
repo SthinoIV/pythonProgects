@@ -1,2 +1,2 @@
 # pythonProgects
-This repository contains full app wrote in python language
+This repository contains app wrote in python language
