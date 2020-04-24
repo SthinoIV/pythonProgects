@@ -1,2 +1,2 @@
-# Origin
+# origin
 My openned repository
